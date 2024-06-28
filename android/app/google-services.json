@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48649335990",
+    "project_id": "linktify-28c2d",
+    "storage_bucket": "linktify-28c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48649335990:android:2538d03a72707849cae217",
+        "android_client_info": {
+          "package_name": "com.example.linktify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyadkyH0E2nXdX1d8OhjQUDqn073EXcjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
